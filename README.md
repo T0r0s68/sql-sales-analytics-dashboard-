@@ -25,21 +25,20 @@ The following visualizations were created in Power BI to analyze sales performan
 ### Total Revenue KPI
 Total Revenue
 
-### Revenue by Region
-Revenue by Region
-
 ### Revenue by Category
 Revenue by Category
 
-### Top Retailers by Revenue
-Top Retailers
-
-### Top 10 Products by Revenue
-Top Products
+### Revenue by Region
+Revenue by Region
 
 ### Monthly Revenue Trend
 Revenue Trend
 
+### Top 10 Products by Revenue
+Top Products
+
+### Top Retailers by Revenue
+Top Retailers
 
 
 ---
