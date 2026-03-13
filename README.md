@@ -23,22 +23,22 @@ The following visualizations were created in Power BI to analyze sales performan
 ## Dashboard Preview
 
 ### Total Revenue KPI
-Total Revenue
+![](sales-analytics-dashboard/dashboard/Kpi total Revenue.png)
 
 ### Revenue by Category
-Revenue by Category
+![](sales-analytics-dashboard/dashboard/Revenue by Category.png)
 
 ### Revenue by Region
-Revenue by Region
+![](sales-analytics-dashboard/dashboard/Revenue by Region.png)
 
 ### Monthly Revenue Trend
-Revenue Trend
+￼
 
 ### Top 10 Products by Revenue
-Top Products
+![](sales-analytics-dashboard/dashboard/Top 10 Products by Revenue.png)
 
 ### Top Retailers by Revenue
-Top Retailers
+![](sales-analytics-dashboard/dashboard/Top Retailers by Revenue.png)
 
 
 ---
