@@ -24,6 +24,8 @@ The following visualizations were created in Power BI to analyze sales performan
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ### Total Revenue KPI
 ￼
 
@@ -40,6 +42,7 @@ The following visualizations were created in Power BI to analyze sales performan
 ￼
 
 ### Top Retailers by Revenue
+￼
 ￼
 
 
