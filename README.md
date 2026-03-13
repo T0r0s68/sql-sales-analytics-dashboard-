@@ -19,7 +19,31 @@ The final result is a business intelligence dashboard that helps stakeholders qu
 
 ## Dashboard Preview
 
-Dashboard
+The following visualizations were created in Power BI to analyze sales performance across regions, products, and retailers.
+
+Total Revenue KPI
+
+
+
+Revenue by Region
+
+
+
+Revenue by Category
+
+
+
+Top Retailers by Revenue
+
+
+
+Top 10 Products by Revenue
+
+
+
+Monthly Revenue Trend
+
+
 
 ---
 
