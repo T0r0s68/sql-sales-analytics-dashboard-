@@ -17,6 +17,23 @@ The final result is a business intelligence dashboard that helps stakeholders qu
 
 ---
 
+## Dataset
+
+The dataset represents simulated retail sales transactions designed to replicate a real-world business environment.
+
+The data includes information about:
+
+- products
+- retailers
+- suppliers
+- sales orders
+- regions
+- revenue metrics
+
+The dataset was generated synthetically using SQL scripts to simulate realistic sales activity across multiple regions and retailers.
+
+---
+
 ## Dashboard Preview
 
 The following visualizations were created in Power BI to analyze sales performance across regions, products, and retailers.
