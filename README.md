@@ -55,8 +55,6 @@ The following visualizations were created in Power BI to analyze sales performan
 ### Top Retailers by Revenue
 <img src="sales-analytics-dashboard/dashboard/Top Retailers by Revenue.png" width="800">
 ￼
-
-
 ---
 
 ## Business Questions
@@ -71,6 +69,18 @@ This project answers several key business questions:
 6. Which retailers generate the highest revenue?
 
 These insights help identify the most profitable products, regions, and business partners.
+
+---
+
+## Key Insights
+
+Based on the analysis, several important insights can be identified:
+
+- Certain regions contribute a significantly larger share of total revenue compared to others.
+- A small group of top products generates a large portion of overall sales.
+- Revenue trends fluctuate throughout the year, indicating potential seasonality in sales.
+- Some retailers consistently outperform others in revenue generation.
+- Product categories such as hardware components dominate overall sales performance.
 
 ---
 
