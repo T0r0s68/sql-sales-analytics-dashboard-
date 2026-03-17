@@ -1,4 +1,18 @@
 # SQL Sales Analytics Dashboard
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Key KPIs](#key-kpis)
+- [SQL Analysis](#sql-analysis)
+- [Dashboard](#dashboard)
+- [Key Insights](#key-insights)
+- [Business Recommendations](#business-recommendations)
+- [How to Run the Project](#how-to-run-the-project)
+- [Project Structure](#project-structure)
+- [Conclusion](#conclusion)
 
 ## Overview
 
